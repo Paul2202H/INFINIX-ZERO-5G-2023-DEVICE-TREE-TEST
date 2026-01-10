@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_X6815D.mk
+    $(LOCAL_DIR)/pb_X6815D.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_X6815D-eng
+    pb_X6815D-eng
